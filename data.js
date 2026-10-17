@@ -32,7 +32,7 @@ const CANDIDATES = [
   { id: "f04", name: "ITZY (있지)", group: "", song: "LOCO", gender: "female", youtubeId: "jr9lqsHUS-o", start: 0 },
   { id: "f05", name: "STAYC (스테이씨)", group: "", song: "ASAP", gender: "female", youtubeId: "ljLn5QFnGyQ", start: 0 }, // 링크가 STAYC 공식 채널이 아닌 미러(재업로드) 채널 영상입니다
   { id: "f06", name: "STAYC (스테이씨)", group: "", song: "RUN2U", gender: "female", youtubeId: "JRGy08dQaZ8", start: 0 },
-  { id: "f07", name: "aespa (에스파)", group: "", song: "WDA (Whole Different Animal)", gender: "female", youtubeId: "rAE2y9Y3EV8", start: 0 },
+  { id: "f07", name: "aespa (에스파)", group: "", song: "Whiplash", gender: "female", youtubeId: "4hAdcenQWqU", start: 0 },
   { id: "f08", name: "aespa (에스파)", group: "", song: "Armageddon", gender: "female", youtubeId: "yS0nP3YlbOM", start: 0 },
   { id: "f09", name: "NewJeans (뉴진스)", group: "", song: "Hype Boy", gender: "female", youtubeId: "9JcJ5E1BloU", start: 0 },
   { id: "f10", name: "NewJeans (뉴진스)", group: "", song: "Super Shy", gender: "female", youtubeId: "wU2siJ2c5TA", start: 0 },
