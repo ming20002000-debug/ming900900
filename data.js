@@ -27,7 +27,7 @@
 const CANDIDATES = [
   // ---- 여돌 (female) — 32개 ----
   { id: "f01", name: "(여자)아이들 ((G)I-DLE)", group: "", song: "퀸카 (Queencard)", gender: "female", youtubeId: "pKCaXYYwGjw", start: 0 },
-  { id: "f02", name: "(여자)아이들 ((G)I-DLE)", group: "", song: "Nxde", gender: "female", youtubeId: "R9UsmrVEWYY", start: 0 },
+  { id: "f02", name: "(여자)아이들 ((G)I-DLE)", group: "", song: "TOMBOY", gender: "female", youtubeId: "CKSQjJDQTaQ", start: 0 },
   { id: "f03", name: "ITZY (있지)", group: "", song: "THAT'S A NO NO", gender: "female", youtubeId: "MrOXMFHWcQY", start: 0 },
   { id: "f04", name: "ITZY (있지)", group: "", song: "LOCO", gender: "female", youtubeId: "jr9lqsHUS-o", start: 0 },
   { id: "f05", name: "STAYC (스테이씨)", group: "", song: "ASAP", gender: "female", youtubeId: "ljLn5QFnGyQ", start: 0 }, // 링크가 STAYC 공식 채널이 아닌 미러(재업로드) 채널 영상입니다
